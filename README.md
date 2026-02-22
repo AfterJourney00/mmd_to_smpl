@@ -1,13 +1,13 @@
 ## MMD to SMPL
 
 > **TL;DR**  
-> This is an autonomous workflow for composing, rendering, and retargeting any humanoid MikuMikuDance (MMD) characters driven by any MMD animations in any blender scenes.
+> This is an automated workflow for composing, rendering, and retargeting any humanoid MikuMikuDance (MMD) characters driven by any MMD animations in any blender scenes.
 
 ### ✨ Key Features
 
 - Composing any combination of MMD characters in `.pmx` and animations in `.vmd` within any `.blend` scenes.
 - Toon and manga manuscript style rendering with tracking camera.
-- Autonomous marker annotation tool for any humanoid MMD character.
+- Automated marker annotation tool for any humanoid MMD character.
 - Shape and pose retargeting from humanoid MMD character to SMPL(-H).
 
 ### 🚀 Getting Started
