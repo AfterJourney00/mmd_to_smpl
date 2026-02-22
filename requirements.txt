@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+git+https://github.com/mattloper/chumpy
+tqdm
+pyyaml
+toml
+easydict
+trimesh
+smplx
+joblib
+bpy==3.6
