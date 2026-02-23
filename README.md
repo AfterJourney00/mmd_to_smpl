@@ -33,28 +33,28 @@ export TMPDIR=<your_tmp_directory_for_cycles>
 VERSION="mmd_to_smpl"
 
 CUDA_VISIBLE_DEVICES=0 python -m .workflow \
---random_seed 42 \
---bake \
---no_physics \
---render \
---engine "CYCLES" \
---res_x 1280 \
---res_y 720 \
---focal 50 \
---start_frame 150 \
---duration 10 \
---style None \
---samples 64 \
---use_gpu \
---retarget \
---sf_standard_height 1.7 \
---sf_learning_rate 0.1 \
---sf_max_iter 300 \
---sf_w_shape_reg 0.0005 \
---sf_w_pose_reg 0.001 \
---pf_batch_size 1 \
---pf_num_iters 100 \
---version ${VERSION}
+  --random_seed 42 \
+  --bake \
+  --no_physics \
+  --render \
+  --engine "CYCLES" \
+  --res_x 1280 \
+  --res_y 720 \
+  --focal 50 \
+  --start_frame 150 \
+  --duration 10 \
+  --style None \
+  --samples 64 \
+  --use_gpu \
+  --retarget \
+  --sf_standard_height 1.7 \
+  --sf_learning_rate 0.1 \
+  --sf_max_iter 300 \
+  --sf_w_shape_reg 0.0005 \
+  --sf_w_pose_reg 0.001 \
+  --pf_batch_size 1 \
+  --pf_num_iters 100 \
+  --version ${VERSION}
 ```
 
 Explanation of key arguments:
