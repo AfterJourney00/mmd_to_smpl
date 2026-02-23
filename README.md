@@ -92,4 +92,4 @@ Explanation of key arguments:
 Thanks to the following work that we refer to and benefit from:
 - [mmd_tools](https://github.com/sugiany/blender_mmd_tools): blender api for manipulating MMD contents;
 - [joints2smpl](https://github.com/wangsen1312/joints2smpl): SMPL parameter solver according to 3D joints;
-- [MMDMC](https://github.com/yenchenlin/nerf-pytorch): code reference
+- [MMDMC](https://github.com/rongakowang/MMDMC): code reference
