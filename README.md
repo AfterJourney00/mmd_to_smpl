@@ -84,7 +84,7 @@ Explanation of key arguments:
 
 - Chengfeng Zhao - [AfterJourney00](https://github.com/AfterJourney00)
 - Junbo Qi - [jumbo-q](https://github.com/jumbo-q)
-- Hongbo Xie - [JerryTseee](https://github.com/JerryTseee)
+- Wangpok Tse - [JerryTseee](https://github.com/JerryTseee)
 - Zekai Gu - [skygoo2000](https://github.com/skygoo2000)
 
 ### Acknowledgments
